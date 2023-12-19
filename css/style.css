@@ -274,7 +274,7 @@ section {
 }
 
 .menu .box-container .box .content h3 {
-  font-size: 2rem;
+  font-size: 100%;
   text-transform: uppercase;
   color: #fff;
 }
